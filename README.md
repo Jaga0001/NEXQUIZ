@@ -1,4 +1,4 @@
-# Quiz App
+# NEXQUIZ
 
 A modern, feature-rich quiz application built with Flutter, designed to provide an engaging learning experience through interactive quizzes.
 
